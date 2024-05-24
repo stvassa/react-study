@@ -1,0 +1,18 @@
+#root {
+  display: flex;
+  width: 100%;
+  text-align: start;
+}
+
+section{
+  width: 50%;
+  height: 100vh;
+  padding: 2rem;
+  border: 1px solid #909090;
+  gap: 10px;
+}
+
+#btn-section{
+  display: flex;
+  flex-direction: column;
+}
